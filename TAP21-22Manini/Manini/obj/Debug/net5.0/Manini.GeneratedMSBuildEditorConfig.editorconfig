@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Manini
+build_property.ProjectDir = E:\OneDrive - unige.it\Universita\ANNO-3\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\tempProgetti\TAPASC\TAP21-22Manini\Manini\

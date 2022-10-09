@@ -1,0 +1,17 @@
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\Manini.deps.json
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\Manini.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\ref\Manini.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\Manini.pdb
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.AssemblyInfoInputs.cache
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.AssemblyInfo.cs
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.csproj.CoreCompileInputs.cache
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\ref\Manini.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.pdb
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\TAP21-22.AlarmClock.Interface.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\TAP21-22.AuctionSite.Interface.dll
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\TAP21-22.AlarmClock.Interface.pdb
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\bin\Debug\net5.0\TAP21-22.AuctionSite.Interface.pdb
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.csproj.CopyComplete
+D:\OneDrive - unige.it\Universita\[TAP] - TECNICHE AVANZATE DI PROGRAMMAZIONE - 80311\Pratica\ProgettiVS2019\TAP21-22Manini\TAP21-22Manini\Manini\obj\Debug\net5.0\Manini.csproj.AssemblyReference.cache
